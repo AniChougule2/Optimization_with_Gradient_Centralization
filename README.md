@@ -1,5 +1,4 @@
 # Optimization_with_Gradient_Centralization
-## Welcome to the Final Project Folder
 
 This folder contains three Python scripts essential for training, testing, and analyzing machine learning models. Below is a description of each script and instructions on how to use them:
 
